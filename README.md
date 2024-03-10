@@ -1,2 +1,1 @@
-# swbp
-spring web base project
+# Spring Web Base Project
